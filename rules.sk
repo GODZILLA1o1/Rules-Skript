@@ -1,0 +1,20 @@
+options:  
+    top: &7&m[---[&4&l&mRules&7&m]---]  
+
+command /rules:  
+    trigger:  
+        send "{@top}"  
+        send "&c🚫 No Spamming"  
+        send "&c🚫 No Harassment or Bullying"  
+        send "&c🚫 No Hate Speech"  
+        send "&6⚠ No Threats or Harmful Behavior"  
+        send "&9🔒 No Sharing Private Info"  
+        send "&b🎭 No Impersonation"  
+        send "&c🚫 No Ban Evasion"  
+        send "&e🛠 No Hacking, Cheating, or Exploits"  
+        send "&3🌍 No Lag Machines or Game-Breaking Builds"  
+        send "&d🤝 Respect Claims & Land Rules"  
+        send "&6💡 Use Common Sense"  
+        send "&5🔥 Have Fun & Keep the Vibes Positive!"  
+        send "{@top}"  
+        send "&a%player's display name% &rAll rules available in this server!"
